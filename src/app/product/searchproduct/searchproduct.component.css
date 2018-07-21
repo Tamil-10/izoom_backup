@@ -1,0 +1,12 @@
+.item-image {
+  font-size: 6em;
+  color: lightgray;
+}
+
+.item-price {
+  font-weight: bold;
+}
+
+img {
+    height: 186px;
+}
